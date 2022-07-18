@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(#5FFC21 ,White);
+}
+
+
+
+
+#camera ,#result
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
